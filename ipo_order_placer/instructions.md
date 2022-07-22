@@ -1,5 +1,7 @@
 # How to place orders electronically via the JockMKT api with no coding experience:
 
+Note: Use at your own risk. Double check your prices and quantites. The creator of this script is not responsible for any outcomes.
+
 1. Download and install python
 
     [DOWNLOAD AND INSTALL PYTHON](https://www.python.org/downloads/)
