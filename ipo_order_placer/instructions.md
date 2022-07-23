@@ -37,7 +37,9 @@ Note: Use at your own risk. Double check your prices and quantites. The creator 
 
 9. Insert the path to your CSV between the quotation marks on line 11 (path_to_csv)
     - FINDING YOUR FILEPATH:
+    
         [MAC](https://support.apple.com/guide/mac-help/get-file-folder-and-disk-information-on-mac-mchlp1774/mac)
+        
         [WINDOWS](https://www.softwareok.com/?seite=faq-Windows-10&faq=40)
 
 10. Decide whether you want the script to sleep until just before the event before placing your orders:
@@ -48,5 +50,6 @@ Note: Use at your own risk. Double check your prices and quantites. The creator 
 11. Run the script! How to do this depends on your text editor. I recommend Visual Studio Code.
 
 12. If you choose to download VSCode, I suggest the Jupyter Notebook extension.
+
     [GET VS CODE](https://code.visualstudio.com/download)
     
